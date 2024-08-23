@@ -3,6 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/spike-monkey-typing-gif-10973398">
 
 
+
+
+
 - 🔥 I'm beginning my AI journey by diving into essential mathematics, including Linear Algebra, Calculus, Statistics, and Probability. My GitHub page will serve as a roadmap for anyone new to AI, reflecting my own initial uncertainties about starting in this field. I welcome advice from all quarters, as I am still learning! After mastering the math, I plan to tackle Python and share my solutions to LeetCode problems on my repository. I'm excited to see where this path will lead in the future.
 
 - 💬 Ask me about **Any math related to AI**
