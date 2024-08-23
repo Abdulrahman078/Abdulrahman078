@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">👨🏻‍💻 Passionate AI student at Umm Al-Qura University.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/spike-monkey-typing-gif-10973398">
+<img align="right" alt="Coding" width="800" src="https://tenor.com/view/spike-monkey-typing-gif-10973398">
 
 
 
