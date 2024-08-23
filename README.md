@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">👨🏻‍💻an AI student at Umm Al-Qura University.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/spike-monkey-typing-gif-10973398">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/spike-monkey-typing-gif-10973398](https://tenor.com/view/monkey-computer-angry-pissed-typing-gif-19954912)">
 
 
 - 🔥 I'm beginning my AI journey by diving into essential mathematics, including Linear Algebra, Calculus, Statistics, and Probability. My GitHub page will serve as a roadmap for anyone new to AI, reflecting my own initial uncertainties about starting in this field. I welcome advice from all quarters, as I am still learning! After mastering the math, I plan to tackle Python and share my solutions to LeetCode problems on my repository. I'm excited to see where this path will lead in the future.
