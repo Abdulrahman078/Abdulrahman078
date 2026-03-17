@@ -40,9 +40,3 @@ Lately, I’ve been spending a lot of time developing an AI solutions with Pytho
 ## Contact
 
 * Email: [aalghamdi.ai@outlook.com](mailto:aalghamdi.ai@outlook.com)
-* GitHub: https://github.com/Abdulrahman078
-* LinkedIn: https://linkedin.com/in/abdulrahman-al-ghamdi
-
----
-
-building, learning, and chasing the next *aha* moment
