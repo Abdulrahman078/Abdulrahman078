@@ -18,7 +18,7 @@ Lately, I’ve been spending a lot of time developing an AI solutions with Pytho
 ## Projects
 
 * AraRest — Arabic Restaurant Sentiment Analysis
-  → https://huggingface.co/Abdu-GH/AraRest-Arabic-Restaurant-Reviews-Sentiment-Analysis
+  → [Link](https://huggingface.co/Abdu-GH/AraRest-Arabic-Restaurant-Reviews-Sentiment-Analysis)
 
 * Time-Series Forecasting with LLMs (Research)
   → [Coming Soon..]
