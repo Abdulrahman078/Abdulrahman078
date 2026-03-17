@@ -2,7 +2,7 @@
 
 I'm Abdulrahman — chasing the next ahaaa moment in my life.
 
-Lately, I’ve been spending a lot of time developing an AI solutions with Python, and I really enjoy anything related to time-series forecasting and analysis.
+Lately, I’ve been spending a lot of time developing AI solutions with Python, and I really enjoy anything related to time-series forecasting and analysis.
 
 ---
 
