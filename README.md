@@ -2,7 +2,7 @@
 
 I'm Abdulrahman — chasing the next ahaaa moment in my life.
 
-Lately, I’ve been spending a lot of time developing AI solutions in Foreseen (Private repos :D), and I really enjoy anything related to time-series forecasting and analysis.
+Lately, I’ve been spending a lot of time developing AI solutions in Foreseen, and I really enjoy anything related to time-series forecasting and analysis or predicting the future in general.
 
 ---
 
@@ -30,10 +30,10 @@ Lately, I’ve been spending a lot of time developing AI solutions in Foreseen (
 
 ## Tools I use
 
-* Python, PyTorch, Hugging Face, Pandas, Numpy, Matplotlib
-* FastAPI, Gradio, Streamlit
+* Python, PyTorch, Hugging Face Ecosystem, Pandas
+* FastAPI, Streamlit
 * PostgreSQL, Supabase, Neon
-* CrewAI, AutoGen, AgentOps
+* CrewAI, AgentOps
 
 ---
 
