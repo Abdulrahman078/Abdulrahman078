@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Abdulrahman — chasing the next ahaaa moment in my life.
+I'm Abdulrahman
 
 Lately, I’ve been spending a lot of time developing AI solutions in Foreseen, and I really enjoy anything related to time-series forecasting and analysis or predicting the future in general.
 
