@@ -23,8 +23,8 @@ Lately, I’ve been spending a lot of time developing AI solutions in Foreseen, 
 * Time-Series Forecasting with LLMs (Research)
   → [Coming Soon..]
 
-* Searcho - Multiagent orchesteration to fetch latest Ai news Using CrewAI (Research)
-  → [Coming Soon..]
+* Searcho - Multiagent orchesteration to fetch latest Ai news Using CrewAI (Under development)
+  → [Link](https://github.com/Abdulrahman078/searcho)
 
 * Foreseen — AI-powered inventory forecasting platform
   → [Link](https://foreseen.sa/)
