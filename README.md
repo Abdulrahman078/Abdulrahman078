@@ -33,7 +33,7 @@ Lately, I’ve been spending a lot of time developing AI solutions in Foreseen, 
 * Python, PyTorch, Hugging Face Ecosystem, Pandas
 * FastAPI, Streamlit
 * PostgreSQL, Supabase, Neon
-* CrewAI, AgentOps
+* CrewAI(i hate it...), AgentOps, Google ADK
 
 ---
 
