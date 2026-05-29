@@ -8,7 +8,6 @@ Lately, I’ve been spending a lot of time developing AI solutions in Foreseen, 
 
 ## What I'm working on
 
-* Arabic Manga Generation [Coming Soon..]
 * Leveraging LLMs & Foundation Models for Time-Series Forecasting [Coming Soon..]
 * Foreseen — AI-powered inventory forecasting platform
   → [Link](https://foreseen.sa/)
